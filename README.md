@@ -39,7 +39,7 @@ Reg No. : 212222230143
 </center>
 <br>
 <table align="center" width="540" cellspacing="2" cellpadding="4" border="5" bgcolor="cyan">
-<caption><b>SLOT TIME TABLE - THIRISHA(22001920)</b></caption>
+<caption><b>SLOT TIME TABLE - T.K.Sharangini(212222230143)</b></caption>
 <tr align="center">
 <th bgcolor="red">Day/Time</th>
 <th bgcolor="red">Monday</th>
@@ -131,9 +131,7 @@ Reg No. : 212222230143
 
 ## OUTPUT
 
-![image](https://user-images.githubusercontent.com/113497104/236664125-3ced06fc-e37f-47c5-a2fe-da93b3dbefe7.png)
-
-
+![WhatsApp Image 2023-05-15 at 9 46 43 PM](https://github.com/shara56/slot/assets/113497104/e01ad1d4-3b19-4371-a06d-19c3292ee49d)
 
 ## HTML VALIDATOR
 
